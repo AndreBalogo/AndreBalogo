@@ -9,7 +9,7 @@ No momento estou em transição de carreira, aproveito para contar um pouco da m
 
 <p> No começo de 2022 aceitei um desafio para integrar a área de MIS - Management Information System, ou SIG - Sistemas de Informações Gerenciais, tive que desempoeirar todo conhecimento adquirido em Visual Basic no famoso excel 2013, de adequar ao PowerBI, Automate, Power Apps, Queries, Access, etc. </p>
 
-<p> Com isso aquela pequena 💥 (faísca) foi dada e comecei a pesquisar mais afundo algo que sempre sonhei, desenvolver meu próprio aplicativo. Me cadastrei no ♨️ Santander Bootcamp Mobile Dev e estou a finalizar. </p>
+<p> Com isso aquela pequena 💥 (faísca) foi dada e comecei a pesquisar mais afundo algo que sempre sonhei, desenvolver meu próprio aplicativo. Me cadastrei no ♨️ Santander Bootcamp Mobile Dev e já finalizei. </p>
 
 <p> Os próximos capítulos serão escritos por aqui, vou commitando pra vocês, por enquanto fiquem com essa branch e logo mais eu atualizo.</p>
 
